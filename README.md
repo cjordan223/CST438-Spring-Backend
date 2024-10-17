@@ -1,5 +1,5 @@
 
-# CST438-Student Portal (Spring Boot Application)
+# CST438-Student Portal (Spring Boot)
 
 This repository contains the backend code for a full-service registrar service designed for students, admins, and instructors. It features secure sign-on using JWT, unit testing, and is configured for Selenium testing with chromedriver.
 
