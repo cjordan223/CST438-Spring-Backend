@@ -1,45 +1,66 @@
+Here’s a concise, passenger-friendly version of the driving options in and around Rocky Mountain National Park (RMNP) since Trail Ridge Road is closed. It’s formatted for you to share easily while you focus on driving your rental car from Denver. I’ve assumed a standard sedan and a day trip—let me know if that changes!
 
-# CST438-Student Portal (Spring Boot)
+---
 
-This repository contains the backend code for a full-service registrar service designed for students, admins, and instructors. It features secure sign-on using JWT, unit testing, and is configured for Selenium testing with chromedriver.
+### Rocky Mountain NP Driving Options  
+**(February 22, 2025 - Trail Ridge Closed)**  
+Hey, passenger! Here’s where we can go with our rental car today. Pick a vibe—I’ll drive, you navigate!
 
+#### Inside RMNP
+1. **Bear Lake Road**  
+   - **Start:** Estes Park (1.5 hrs from Denver).  
+   - **Route:** 10 miles one-way from Beaver Meadows Entrance to Bear Lake.  
+   - **Why:** Snowy forests, mountain views, easy stop at Bear Lake.  
+   - **Time:** 2-3 hrs round-trip with stops.  
+   - **Heads-Up:** Plowed but icy possible. Short walk at lake if we’re up for it.
 
-# Running
+2. **Endovalley Road**  
+   - **Start:** Fall River Entrance (near Estes).  
+   - **Route:** 2 miles to Alluvial Fan (waterfall + boulders).  
+   - **Why:** Quiet, elk spotting, cool flood leftovers.  
+   - **Time:** 1-2 hrs round-trip.  
+   - **Heads-Up:** Paved then dirt, passable but snowy.
 
-### Machine Prerequisites
+3. **Trail Ridge (East Side to Rainbow Curve)**  
+   - **Start:** Beaver Meadows Entrance.  
+   - **Route:** 10 miles one-way to Rainbow Curve.  
+   - **Why:** High views (10,829 ft), tundra feel, turnaround spot.  
+   - **Time:** 2-3 hrs round-trip.  
+   - **Heads-Up:** Windy, cold, plowed but slick.
 
- - JDK 17  
- - Maven  
- - MySQL
+4. **Kawuneeche Valley (West Side)**  
+   - **Start:** Grand Lake (2 hrs from Denver).  
+   - **Route:** 10 miles one-way from Grand Lake Entrance to Colorado River Trailhead.  
+   - **Why:** Moose, snowy meadows, river vibes.  
+   - **Time:** 3-4 hrs round-trip from Grand Lake.  
+   - **Heads-Up:** Less busy, plowed but slow going.
 
- 
- IDE: This project was built in IntelliJ and it's use is recommended for the application. 
+#### Nearby Alternatives
+5. **Peak to Peak Scenic Byway**  
+   - **Start:** Estes Park.  
+   - **Route:** 55 miles south to Nederland via CO-7.  
+   - **Why:** Longs Peak views, cute towns, not in park.  
+   - **Time:** 3-4 hrs round-trip.  
+   - **Heads-Up:** Paved, easy, coffee stop option.
 
-You can view the entire SRS [here](https://drive.google.com/file/d/1b7quP2i_la1p6O8vwE_39JpEkyJJYrwj/view?usp=sharing), for detailed info on the DB and backend structure as a whole. 
+6. **Big Thompson Canyon**  
+   - **Start:** Loveland (30 mins from Denver).  
+   - **Route:** 35 miles to Estes Park via US-34.  
+   - **Why:** Canyon walls, river, snowy drama.  
+   - **Time:** 2-3 hrs round-trip.  
+   - **Heads-Up:** Plowed, watch for ice.
 
-## Start the Server
-After you've cloned the repo, open the project in IntelliJ and navigate to the main file.
+---
 
- ![1](https://github.com/user-attachments/assets/075c3c81-d618-4e86-8bce-39b3b58947f4)
+### Quick Tips for Us
+- **Weather:** Cold (20s°F or less), windy, maybe snow. Roads plowed but slippery—slow driving!  
+- **Gear:** Layers, gloves, hat—bundle up for stops.  
+- **Car:** Sedan’s fine, gas up in Estes or Grand Lake.  
+- **Cost:** $25 park fee (day pass).  
+- **Timing:** Start early (8 AM from Denver) for daylight (sunset ~5:45 PM).  
 
+What do you think—Bear Lake for a quick hit or something longer? You’re the co-pilot!  
 
-Start the server
+--- 
 
-![2](https://github.com/user-attachments/assets/c12d3712-9338-45bc-92b6-b605ae53268b)
-
-Once your backend is up and running on localhost:8080 (or whatever port you change it to), you're done. This project implemented SOA and the front end was completed [here](https://github.com/cjordan223/cst438_Assignment3) as a separate service.
-
-## Adjusting the Data
-
-The SQL DB is already populated with data for testing. It can be adjusted but is not recommended. UML diagrams can be found in the SRS.
-
-## Contributors
-
-This project included Conner Jordan, Erin Smajdek and Nima Mahaloo as equal team members.
-
-
-
-
-
- 
-
+Let me know if you want me to adjust this further! Safe driving!
